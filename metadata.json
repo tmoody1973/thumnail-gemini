@@ -1,0 +1,5 @@
+{
+  "name": "Thumbnail Architect",
+  "description": "A professional podcast thumbnail generator powered by Gemini 2.5 Flash Image. Design eye-catching cover art for your audio series.",
+  "requestFramePermissions": []
+}
